@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Class-500g%20PocketQube-orange?style=for-the-badge&logo=satellites" alt="500g Class">
   <img src="https://img.shields.io/badge/Application-Commercial%20Civilian-informational?style=for-the-badge&logo=earth" alt="Civilian">
 </p>
+Disclaimer: All financial figures provided herein are purely hypothetical, estimated for illustrative purposes only, and do not constitute a binding rule or official guarantee.
+
 
 ---
 
